@@ -1,0 +1,18 @@
+{
+    "16" : {
+        "name" : "Just Dance 2019 ",
+        "cost" : 4000,
+        "image" : "img/products/xbgame/just_dance.jpg"
+      },
+      "17" : {
+        "name" : "Bleeding Edge",
+        "cost" : 4500,
+        "image" : "img/products/xbgame/bleeding_edge.jpg"
+      },
+      "18" : {
+        "name" : "Gears Tactics",
+        "cost" : 4000,
+        "image" : "img/products/xbgame/gears_tactics.jpg"
+      }
+    
+    }

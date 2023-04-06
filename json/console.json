@@ -1,0 +1,32 @@
+{
+  "1" : {
+    "name" : "Nintendo Switch 1 rev",
+    "cost" : 20000,
+    "image" : "img/products/nintendo_switch_1_rev.jpg"
+  },
+  "2" : {
+    "name" : "Nintendo Switch 2 rev",
+    "cost" : 25000,
+    "image" : "img/products/nintendo_switch_2_rev.jpg"
+  },
+  "3" : {
+    "name" : "PlayStation 4 slim 1tb",
+    "cost" : 30000,
+    "image" : "img/products/playstation4.jpg"
+  },
+  "4" : {
+    "name" : "PlayStation 5",
+    "cost" : 70000,
+    "image" : "img/products/playstation5.jpg"
+  },
+  "5" : {
+    "name" : "XBOX ONE S",
+    "cost" : 30000,
+    "image" : "img/products/xbox_one_s.jpg"
+  },
+  "6" : {
+    "name" : "XBOX Series X",
+    "cost" : 60000,
+    "image" : "img/products/xbox_series_x.jpg"
+  }
+}

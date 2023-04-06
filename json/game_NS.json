@@ -1,0 +1,18 @@
+{
+"7" : {
+    "name" : "Metroid Prime Dread",
+    "cost" : 4000,
+    "image" : "img/products/NSgame/metroid.jpg"
+  },
+  "8" : {
+    "name" : "The Legend of Zelda: Breath of the Wild",
+    "cost" : 4500,
+    "image" : "img/products/NSgame/zelda.jpg"
+  },
+  "9" : {
+    "name" : "Astral Chain",
+    "cost" : 4000,
+    "image" : "img/products/NSgame/astral_chain.jpg"
+  }
+
+}

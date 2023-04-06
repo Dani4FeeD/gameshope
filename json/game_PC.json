@@ -1,0 +1,18 @@
+{
+    "10" : {
+        "name" : "Destiny 2",
+        "cost" : 400,
+        "image" : "img/products/PCgame/destiny2.jpg"
+      },
+      "11" : {
+        "name" : "Dishonored 2",
+        "cost" : 450,
+        "image" : "img/products/PCgame/dishonored2.jpg"
+      },
+      "12" : {
+        "name" : "Fallout 4",
+        "cost" : 400,
+        "image" : "img/products/PCgame/fallout4.jpg"
+      }
+    
+    }

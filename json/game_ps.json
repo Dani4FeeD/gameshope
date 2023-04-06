@@ -1,0 +1,18 @@
+{
+    "13" : {
+        "name" : "Tom Clancy's The Division 2",
+        "cost" : 4000,
+        "image" : "img/products/PSgame/division2.jpg"
+      },
+      "14" : {
+        "name" : "Call of Duty: Black Ops 4",
+        "cost" : 4500,
+        "image" : "img/products/PSgame/black_ops_4.jpg"
+      },
+      "15" : {
+        "name" : "Infamous: Second Son",
+        "cost" : 4000,
+        "image" : "img/products/PSgame/second_son.jpg"
+      }
+    
+    }
